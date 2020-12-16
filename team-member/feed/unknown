@@ -1,0 +1,417 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Team Members &#8211; Emphires Demo 1</title>
+	<atom:link href="https://emphires-demo.creativesplanet.com/demo1/team-member/feed/" rel="self" type="application/rss+xml" />
+	<link>https://emphires-demo.creativesplanet.com/demo1</link>
+	<description>Human Resources &#38; Recruiting WP Theme</description>
+	<lastBuildDate>Mon, 02 Mar 2020 05:18:01 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.5.3</generator>
+
+<image>
+	<url>https://emphires-demo.creativesplanet.com/demo1/wp-content/uploads/sites/7/2020/03/cropped-fevicon-32x32.png</url>
+	<title>Team Members &#8211; Emphires Demo 1</title>
+	<link>https://emphires-demo.creativesplanet.com/demo1</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Thomas Novak</title>
+		<link>https://emphires-demo.creativesplanet.com/demo1/team-member/thomas-novak/</link>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Wed, 29 Jan 2020 09:35:22 +0000</pubDate>
+				<guid isPermaLink="false">http://emphires-demo.creativesplanet.com/demo1/?post_type=cspt-team-member&#038;p=12023</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[<div class="vc_row wpb_row vc_row-fluid cspt-row cspt-bg-color-yes cspt-bg-color-transparent cspt-zindex-zero">
+			<div class="wpb_column vc_column_container vc_col-sm-12 cspt-column cspt-bg-color-yes cspt-bg-color-transparent cspt-zindex-zero">
+	<div class="vc_column-inner ">
+			<div class="wpb_wrapper">
+			<h4 style="text-align: left" class="vc_custom_heading" >Qualification</h4>
+	<div class="wpb_text_column wpb_content_element " >
+		<div class="wpb_wrapper">
+			<p>Quuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quia non numquam eius modi tempora incidunt ut labore et dolore magnam dolor sit amet, consectetur adipisicing.</p>
+
+		</div>
+	</div>
+<div class="vc_row wpb_row vc_inner vc_row-fluid cspt-row-inner cspt-bg-color-yes cspt-bg-color-transparent cspt-zindex-zero">
+	<div class="wpb_column vc_column_container vc_col-sm-4 cspt-column-inner cspt-bg-color-yes cspt-bg-color-transparent cspt-zindex-zero"><div class="vc_column-inner "><div class="wpb_wrapper"><div  class="cspt-ihbox cspt-ihbox-style-11 " >
+	<div class="cspt-ihbox-box">
+		<div class="cspt-ihbox-icon"><div class="cspt-ihbox-icon-wrapper cspt-ihbox-icon-type-image"><img width="90" height="90" src="https://emphires-demo.creativesplanet.com/demo1/wp-content/uploads/sites/7/2020/02/n-icon-04.png" class="attachment-full size-full" alt="" data-id="13119" /></div></div><div class="cspt-ihbox-contents">
+			<div class="cspt-ihbox-heading"><h2 class="vc_custom_heading">Education</h2></div>						<div class="cspt-ihbox-content">Harvar University, Cambridge Business</div>								</div><!-- .cspt-ihbox-contents -->
+	</div>
+</div>
+</div></div></div><div class="wpb_column vc_column_container vc_col-sm-4 cspt-column-inner cspt-bg-color-yes cspt-bg-color-transparent cspt-zindex-zero cspt-responsive-custom-81152116"><div class="vc_column-inner "><div class="wpb_wrapper"><div  class="cspt-ihbox cspt-ihbox-style-11 " >
+	<div class="cspt-ihbox-box">
+		<div class="cspt-ihbox-icon"><div class="cspt-ihbox-icon-wrapper cspt-ihbox-icon-type-image"><img width="90" height="90" src="https://emphires-demo.creativesplanet.com/demo1/wp-content/uploads/sites/7/2020/02/n-icon-01.png" class="attachment-full size-full" alt="" data-id="13120" /></div></div><div class="cspt-ihbox-contents">
+			<div class="cspt-ihbox-heading"><h2 class="vc_custom_heading">Career</h2></div>						<div class="cspt-ihbox-content">H R Management LTD, New York as a adviser</div>								</div><!-- .cspt-ihbox-contents -->
+	</div>
+</div>
+</div></div></div><div class="wpb_column vc_column_container vc_col-sm-4 cspt-column-inner cspt-bg-color-yes cspt-bg-color-transparent cspt-zindex-zero"><div class="vc_column-inner "><div class="wpb_wrapper"><div  class="cspt-ihbox cspt-ihbox-style-11 " >
+	<div class="cspt-ihbox-box">
+		<div class="cspt-ihbox-icon"><div class="cspt-ihbox-icon-wrapper cspt-ihbox-icon-type-image"><img width="90" height="90" src="https://emphires-demo.creativesplanet.com/demo1/wp-content/uploads/sites/7/2020/02/n-icon-02.png" class="attachment-full size-full" alt="" data-id="13121" /></div></div><div class="cspt-ihbox-contents">
+			<div class="cspt-ihbox-heading"><h2 class="vc_custom_heading">Experience</h2></div>						<div class="cspt-ihbox-content">15 years of experience &amp; Professional adviser</div>								</div><!-- .cspt-ihbox-contents -->
+	</div>
+</div>
+</div></div></div></div>
+		</div>
+	</div>
+</div>
+</div>
+<div class="vc_row wpb_row vc_row-fluid vc_custom_1580460560594 cspt-row cspt-bg-color-yes cspt-bg-color-transparent cspt-zindex-zero">
+			<div class="wpb_column vc_column_container vc_col-sm-12 cspt-column cspt-bg-color-yes cspt-bg-color-transparent cspt-zindex-zero">
+	<div class="vc_column-inner ">
+			<div class="wpb_wrapper">
+			<h4 style="text-align: left" class="vc_custom_heading" >Contact Me</h4>
+	<div class="wpb_text_column wpb_content_element " >
+		<div class="wpb_wrapper">
+			<p>Quuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quia non numquam eius modi tempora incidunt ut labore et dolore magnam dolor sit amet.</p>
+
+		</div>
+	</div>
+[contact-form-7]		</div>
+	</div>
+</div>
+</div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Amanda Berry</title>
+		<link>https://emphires-demo.creativesplanet.com/demo1/team-member/amanda-berry/</link>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Wed, 29 Jan 2020 09:30:11 +0000</pubDate>
+				<guid isPermaLink="false">http://emphires-demo.creativesplanet.com/demo1/?post_type=cspt-team-member&#038;p=12020</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[<div class="vc_row wpb_row vc_row-fluid cspt-row cspt-bg-color-yes cspt-bg-color-transparent cspt-zindex-zero">
+			<div class="wpb_column vc_column_container vc_col-sm-12 cspt-column cspt-bg-color-yes cspt-bg-color-transparent cspt-zindex-zero">
+	<div class="vc_column-inner ">
+			<div class="wpb_wrapper">
+			<h4 style="text-align: left" class="vc_custom_heading" >Qualification</h4>
+	<div class="wpb_text_column wpb_content_element " >
+		<div class="wpb_wrapper">
+			<p>Quuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quia non numquam eius modi tempora incidunt ut labore et dolore magnam dolor sit amet, consectetur adipisicing.</p>
+
+		</div>
+	</div>
+<div class="vc_row wpb_row vc_inner vc_row-fluid cspt-row-inner cspt-bg-color-yes cspt-bg-color-transparent cspt-zindex-zero">
+	<div class="wpb_column vc_column_container vc_col-sm-4 cspt-column-inner cspt-bg-color-yes cspt-bg-color-transparent cspt-zindex-zero"><div class="vc_column-inner "><div class="wpb_wrapper"><div  class="cspt-ihbox cspt-ihbox-style-11 " >
+	<div class="cspt-ihbox-box">
+		<div class="cspt-ihbox-icon"><div class="cspt-ihbox-icon-wrapper cspt-ihbox-icon-type-image"><img width="90" height="90" src="https://emphires-demo.creativesplanet.com/demo1/wp-content/uploads/sites/7/2020/02/n-icon-04.png" class="attachment-full size-full" alt="" data-id="13119" /></div></div><div class="cspt-ihbox-contents">
+			<div class="cspt-ihbox-heading"><h2 class="vc_custom_heading">Education</h2></div>						<div class="cspt-ihbox-content">Harvar University, Cambridge Business</div>								</div><!-- .cspt-ihbox-contents -->
+	</div>
+</div>
+</div></div></div><div class="wpb_column vc_column_container vc_col-sm-4 cspt-column-inner cspt-bg-color-yes cspt-bg-color-transparent cspt-zindex-zero cspt-responsive-custom-81152116"><div class="vc_column-inner "><div class="wpb_wrapper"><div  class="cspt-ihbox cspt-ihbox-style-11 " >
+	<div class="cspt-ihbox-box">
+		<div class="cspt-ihbox-icon"><div class="cspt-ihbox-icon-wrapper cspt-ihbox-icon-type-image"><img width="90" height="90" src="https://emphires-demo.creativesplanet.com/demo1/wp-content/uploads/sites/7/2020/02/n-icon-01.png" class="attachment-full size-full" alt="" data-id="13120" /></div></div><div class="cspt-ihbox-contents">
+			<div class="cspt-ihbox-heading"><h2 class="vc_custom_heading">Career</h2></div>						<div class="cspt-ihbox-content">H R Management LTD, New York as a adviser</div>								</div><!-- .cspt-ihbox-contents -->
+	</div>
+</div>
+</div></div></div><div class="wpb_column vc_column_container vc_col-sm-4 cspt-column-inner cspt-bg-color-yes cspt-bg-color-transparent cspt-zindex-zero"><div class="vc_column-inner "><div class="wpb_wrapper"><div  class="cspt-ihbox cspt-ihbox-style-11 " >
+	<div class="cspt-ihbox-box">
+		<div class="cspt-ihbox-icon"><div class="cspt-ihbox-icon-wrapper cspt-ihbox-icon-type-image"><img width="90" height="90" src="https://emphires-demo.creativesplanet.com/demo1/wp-content/uploads/sites/7/2020/02/n-icon-02.png" class="attachment-full size-full" alt="" data-id="13121" /></div></div><div class="cspt-ihbox-contents">
+			<div class="cspt-ihbox-heading"><h2 class="vc_custom_heading">Experience</h2></div>						<div class="cspt-ihbox-content">15 years of experience &amp; Professional adviser</div>								</div><!-- .cspt-ihbox-contents -->
+	</div>
+</div>
+</div></div></div></div>
+		</div>
+	</div>
+</div>
+</div>
+<div class="vc_row wpb_row vc_row-fluid vc_custom_1580460560594 cspt-row cspt-bg-color-yes cspt-bg-color-transparent cspt-zindex-zero">
+			<div class="wpb_column vc_column_container vc_col-sm-12 cspt-column cspt-bg-color-yes cspt-bg-color-transparent cspt-zindex-zero">
+	<div class="vc_column-inner ">
+			<div class="wpb_wrapper">
+			<h4 style="text-align: left" class="vc_custom_heading" >Contact Me</h4>
+	<div class="wpb_text_column wpb_content_element " >
+		<div class="wpb_wrapper">
+			<p>Quuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quia non numquam eius modi tempora incidunt ut labore et dolore magnam dolor sit amet.</p>
+
+		</div>
+	</div>
+[contact-form-7]		</div>
+	</div>
+</div>
+</div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Edward Willey</title>
+		<link>https://emphires-demo.creativesplanet.com/demo1/team-member/edward-willey/</link>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Sat, 25 May 2019 05:41:42 +0000</pubDate>
+				<guid isPermaLink="false">http://emphires-demo.creativesplanet.com/nutrition/?post_type=ts_team_member&#038;p=4933</guid>
+
+					<description><![CDATA[
+				Laboratory equipment refers to the various tools and equipment.		]]></description>
+										<content:encoded><![CDATA[<div class="vc_row wpb_row vc_row-fluid cspt-row cspt-bg-color-yes cspt-bg-color-transparent cspt-zindex-zero">
+			<div class="wpb_column vc_column_container vc_col-sm-12 cspt-column cspt-bg-color-yes cspt-bg-color-transparent cspt-zindex-zero">
+	<div class="vc_column-inner ">
+			<div class="wpb_wrapper">
+			<h4 style="text-align: left" class="vc_custom_heading" >Qualification</h4>
+	<div class="wpb_text_column wpb_content_element " >
+		<div class="wpb_wrapper">
+			<p>Quuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quia non numquam eius modi tempora incidunt ut labore et dolore magnam dolor sit amet, consectetur adipisicing.</p>
+
+		</div>
+	</div>
+<div class="vc_row wpb_row vc_inner vc_row-fluid cspt-row-inner cspt-bg-color-yes cspt-bg-color-transparent cspt-zindex-zero">
+	<div class="wpb_column vc_column_container vc_col-sm-4 cspt-column-inner cspt-bg-color-yes cspt-bg-color-transparent cspt-zindex-zero"><div class="vc_column-inner "><div class="wpb_wrapper"><div  class="cspt-ihbox cspt-ihbox-style-11 " >
+	<div class="cspt-ihbox-box">
+		<div class="cspt-ihbox-icon"><div class="cspt-ihbox-icon-wrapper cspt-ihbox-icon-type-image"><img width="90" height="90" src="https://emphires-demo.creativesplanet.com/demo1/wp-content/uploads/sites/7/2020/02/n-icon-04.png" class="attachment-full size-full" alt="" data-id="13119" /></div></div><div class="cspt-ihbox-contents">
+			<div class="cspt-ihbox-heading"><h2 class="vc_custom_heading">Education</h2></div>						<div class="cspt-ihbox-content">Harvar University, Cambridge Business</div>								</div><!-- .cspt-ihbox-contents -->
+	</div>
+</div>
+</div></div></div><div class="wpb_column vc_column_container vc_col-sm-4 cspt-column-inner cspt-bg-color-yes cspt-bg-color-transparent cspt-zindex-zero cspt-responsive-custom-81152116"><div class="vc_column-inner "><div class="wpb_wrapper"><div  class="cspt-ihbox cspt-ihbox-style-11 " >
+	<div class="cspt-ihbox-box">
+		<div class="cspt-ihbox-icon"><div class="cspt-ihbox-icon-wrapper cspt-ihbox-icon-type-image"><img width="90" height="90" src="https://emphires-demo.creativesplanet.com/demo1/wp-content/uploads/sites/7/2020/02/n-icon-01.png" class="attachment-full size-full" alt="" data-id="13120" /></div></div><div class="cspt-ihbox-contents">
+			<div class="cspt-ihbox-heading"><h2 class="vc_custom_heading">Career</h2></div>						<div class="cspt-ihbox-content">H R Management LTD, New York as a adviser</div>								</div><!-- .cspt-ihbox-contents -->
+	</div>
+</div>
+</div></div></div><div class="wpb_column vc_column_container vc_col-sm-4 cspt-column-inner cspt-bg-color-yes cspt-bg-color-transparent cspt-zindex-zero"><div class="vc_column-inner "><div class="wpb_wrapper"><div  class="cspt-ihbox cspt-ihbox-style-11 " >
+	<div class="cspt-ihbox-box">
+		<div class="cspt-ihbox-icon"><div class="cspt-ihbox-icon-wrapper cspt-ihbox-icon-type-image"><img width="90" height="90" src="https://emphires-demo.creativesplanet.com/demo1/wp-content/uploads/sites/7/2020/02/n-icon-02.png" class="attachment-full size-full" alt="" data-id="13121" /></div></div><div class="cspt-ihbox-contents">
+			<div class="cspt-ihbox-heading"><h2 class="vc_custom_heading">Experience</h2></div>						<div class="cspt-ihbox-content">15 years of experience &#038; Professional adviser</div>								</div><!-- .cspt-ihbox-contents -->
+	</div>
+</div>
+</div></div></div></div>
+		</div>
+	</div>
+</div>
+</div>
+<div class="vc_row wpb_row vc_row-fluid vc_custom_1580460560594 cspt-row cspt-bg-color-yes cspt-bg-color-transparent cspt-zindex-zero">
+			<div class="wpb_column vc_column_container vc_col-sm-12 cspt-column cspt-bg-color-yes cspt-bg-color-transparent cspt-zindex-zero">
+	<div class="vc_column-inner ">
+			<div class="wpb_wrapper">
+			<h4 style="text-align: left" class="vc_custom_heading" >Contact Me</h4>
+	<div class="wpb_text_column wpb_content_element " >
+		<div class="wpb_wrapper">
+			<p>Quuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quia non numquam eius modi tempora incidunt ut labore et dolore magnam dolor sit amet.</p>
+
+		</div>
+	</div>
+[contact-form-7]		</div>
+	</div>
+</div>
+</div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Berry Castle</title>
+		<link>https://emphires-demo.creativesplanet.com/demo1/team-member/berry-castle/</link>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Mon, 06 May 2019 12:02:24 +0000</pubDate>
+				<guid isPermaLink="false">http://emphires-demo.creativesplanet.com/nutrition/?post_type=ts-team-member&#038;p=5973</guid>
+
+					<description><![CDATA[
+				Laboratory equipment refers to the various tools and equipment.		]]></description>
+										<content:encoded><![CDATA[<div class="vc_row wpb_row vc_row-fluid cspt-row cspt-bg-color-yes cspt-bg-color-transparent cspt-zindex-zero">
+			<div class="wpb_column vc_column_container vc_col-sm-12 cspt-column cspt-bg-color-yes cspt-bg-color-transparent cspt-zindex-zero">
+	<div class="vc_column-inner ">
+			<div class="wpb_wrapper">
+			<h4 style="text-align: left" class="vc_custom_heading" >Qualification</h4>
+	<div class="wpb_text_column wpb_content_element " >
+		<div class="wpb_wrapper">
+			<p>Quuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quia non numquam eius modi tempora incidunt ut labore et dolore magnam dolor sit amet, consectetur adipisicing.</p>
+
+		</div>
+	</div>
+<div class="vc_row wpb_row vc_inner vc_row-fluid cspt-row-inner cspt-bg-color-yes cspt-bg-color-transparent cspt-zindex-zero">
+	<div class="wpb_column vc_column_container vc_col-sm-4 cspt-column-inner cspt-bg-color-yes cspt-bg-color-transparent cspt-zindex-zero"><div class="vc_column-inner "><div class="wpb_wrapper"><div  class="cspt-ihbox cspt-ihbox-style-11 " >
+	<div class="cspt-ihbox-box">
+		<div class="cspt-ihbox-icon"><div class="cspt-ihbox-icon-wrapper cspt-ihbox-icon-type-image"><img width="90" height="90" src="https://emphires-demo.creativesplanet.com/demo1/wp-content/uploads/sites/7/2020/02/n-icon-04.png" class="attachment-full size-full" alt="" data-id="13119" /></div></div><div class="cspt-ihbox-contents">
+			<div class="cspt-ihbox-heading"><h2 class="vc_custom_heading">Education</h2></div>						<div class="cspt-ihbox-content">Harvar University, Cambridge Business</div>								</div><!-- .cspt-ihbox-contents -->
+	</div>
+</div>
+</div></div></div><div class="wpb_column vc_column_container vc_col-sm-4 cspt-column-inner cspt-bg-color-yes cspt-bg-color-transparent cspt-zindex-zero cspt-responsive-custom-81152116"><div class="vc_column-inner "><div class="wpb_wrapper"><div  class="cspt-ihbox cspt-ihbox-style-11 " >
+	<div class="cspt-ihbox-box">
+		<div class="cspt-ihbox-icon"><div class="cspt-ihbox-icon-wrapper cspt-ihbox-icon-type-image"><img width="90" height="90" src="https://emphires-demo.creativesplanet.com/demo1/wp-content/uploads/sites/7/2020/02/n-icon-01.png" class="attachment-full size-full" alt="" data-id="13120" /></div></div><div class="cspt-ihbox-contents">
+			<div class="cspt-ihbox-heading"><h2 class="vc_custom_heading">Career</h2></div>						<div class="cspt-ihbox-content">H R Management LTD, New York as a adviser</div>								</div><!-- .cspt-ihbox-contents -->
+	</div>
+</div>
+</div></div></div><div class="wpb_column vc_column_container vc_col-sm-4 cspt-column-inner cspt-bg-color-yes cspt-bg-color-transparent cspt-zindex-zero"><div class="vc_column-inner "><div class="wpb_wrapper"><div  class="cspt-ihbox cspt-ihbox-style-11 " >
+	<div class="cspt-ihbox-box">
+		<div class="cspt-ihbox-icon"><div class="cspt-ihbox-icon-wrapper cspt-ihbox-icon-type-image"><img width="90" height="90" src="https://emphires-demo.creativesplanet.com/demo1/wp-content/uploads/sites/7/2020/02/n-icon-02.png" class="attachment-full size-full" alt="" data-id="13121" /></div></div><div class="cspt-ihbox-contents">
+			<div class="cspt-ihbox-heading"><h2 class="vc_custom_heading">Experience</h2></div>						<div class="cspt-ihbox-content">15 years of experience &amp; Professional adviser</div>								</div><!-- .cspt-ihbox-contents -->
+	</div>
+</div>
+</div></div></div></div>
+		</div>
+	</div>
+</div>
+</div>
+<div class="vc_row wpb_row vc_row-fluid vc_custom_1580460560594 cspt-row cspt-bg-color-yes cspt-bg-color-transparent cspt-zindex-zero">
+			<div class="wpb_column vc_column_container vc_col-sm-12 cspt-column cspt-bg-color-yes cspt-bg-color-transparent cspt-zindex-zero">
+	<div class="vc_column-inner ">
+			<div class="wpb_wrapper">
+			<h4 style="text-align: left" class="vc_custom_heading" >Contact Me</h4>
+	<div class="wpb_text_column wpb_content_element " >
+		<div class="wpb_wrapper">
+			<p>Quuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quia non numquam eius modi tempora incidunt ut labore et dolore magnam dolor sit amet.</p>
+
+		</div>
+	</div>
+[contact-form-7]		</div>
+	</div>
+</div>
+</div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>David Willey</title>
+		<link>https://emphires-demo.creativesplanet.com/demo1/team-member/david-willey/</link>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Wed, 24 Apr 2019 08:34:27 +0000</pubDate>
+				<guid isPermaLink="false">http://localhost/projects/solar/?post_type=cspt-team-member&#038;p=8172</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[<div class="vc_row wpb_row vc_row-fluid cspt-row cspt-bg-color-yes cspt-bg-color-transparent cspt-zindex-zero">
+			<div class="wpb_column vc_column_container vc_col-sm-12 cspt-column cspt-bg-color-yes cspt-bg-color-transparent cspt-zindex-zero">
+	<div class="vc_column-inner ">
+			<div class="wpb_wrapper">
+			<h4 style="text-align: left" class="vc_custom_heading" >Qualification</h4>
+	<div class="wpb_text_column wpb_content_element " >
+		<div class="wpb_wrapper">
+			<p>Quuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quia non numquam eius modi tempora incidunt ut labore et dolore magnam dolor sit amet, consectetur adipisicing.</p>
+
+		</div>
+	</div>
+<div class="vc_row wpb_row vc_inner vc_row-fluid cspt-row-inner cspt-bg-color-yes cspt-bg-color-transparent cspt-zindex-zero">
+	<div class="wpb_column vc_column_container vc_col-sm-4 cspt-column-inner cspt-bg-color-yes cspt-bg-color-transparent cspt-zindex-zero"><div class="vc_column-inner "><div class="wpb_wrapper"><div  class="cspt-ihbox cspt-ihbox-style-11 " >
+	<div class="cspt-ihbox-box">
+		<div class="cspt-ihbox-icon"><div class="cspt-ihbox-icon-wrapper cspt-ihbox-icon-type-image"><img width="90" height="90" src="https://emphires-demo.creativesplanet.com/demo1/wp-content/uploads/sites/7/2020/02/n-icon-04.png" class="attachment-full size-full" alt="" data-id="13119" /></div></div><div class="cspt-ihbox-contents">
+			<div class="cspt-ihbox-heading"><h2 class="vc_custom_heading">Education</h2></div>						<div class="cspt-ihbox-content">Harvar University, Cambridge Business</div>								</div><!-- .cspt-ihbox-contents -->
+	</div>
+</div>
+</div></div></div><div class="wpb_column vc_column_container vc_col-sm-4 cspt-column-inner cspt-bg-color-yes cspt-bg-color-transparent cspt-zindex-zero cspt-responsive-custom-81152116"><div class="vc_column-inner "><div class="wpb_wrapper"><div  class="cspt-ihbox cspt-ihbox-style-11 " >
+	<div class="cspt-ihbox-box">
+		<div class="cspt-ihbox-icon"><div class="cspt-ihbox-icon-wrapper cspt-ihbox-icon-type-image"><img width="90" height="90" src="https://emphires-demo.creativesplanet.com/demo1/wp-content/uploads/sites/7/2020/02/n-icon-01.png" class="attachment-full size-full" alt="" data-id="13120" /></div></div><div class="cspt-ihbox-contents">
+			<div class="cspt-ihbox-heading"><h2 class="vc_custom_heading">Career</h2></div>						<div class="cspt-ihbox-content">H R Management LTD, New York as a adviser</div>								</div><!-- .cspt-ihbox-contents -->
+	</div>
+</div>
+</div></div></div><div class="wpb_column vc_column_container vc_col-sm-4 cspt-column-inner cspt-bg-color-yes cspt-bg-color-transparent cspt-zindex-zero"><div class="vc_column-inner "><div class="wpb_wrapper"><div  class="cspt-ihbox cspt-ihbox-style-11 " >
+	<div class="cspt-ihbox-box">
+		<div class="cspt-ihbox-icon"><div class="cspt-ihbox-icon-wrapper cspt-ihbox-icon-type-image"><img width="90" height="90" src="https://emphires-demo.creativesplanet.com/demo1/wp-content/uploads/sites/7/2020/02/n-icon-02.png" class="attachment-full size-full" alt="" data-id="13121" /></div></div><div class="cspt-ihbox-contents">
+			<div class="cspt-ihbox-heading"><h2 class="vc_custom_heading">Experience</h2></div>						<div class="cspt-ihbox-content">15 years of experience &amp; Professional adviser</div>								</div><!-- .cspt-ihbox-contents -->
+	</div>
+</div>
+</div></div></div></div>
+		</div>
+	</div>
+</div>
+</div>
+<div class="vc_row wpb_row vc_row-fluid vc_custom_1580460560594 cspt-row cspt-bg-color-yes cspt-bg-color-transparent cspt-zindex-zero">
+			<div class="wpb_column vc_column_container vc_col-sm-12 cspt-column cspt-bg-color-yes cspt-bg-color-transparent cspt-zindex-zero">
+	<div class="vc_column-inner ">
+			<div class="wpb_wrapper">
+			<h4 style="text-align: left" class="vc_custom_heading" >Contact Me</h4>
+	<div class="wpb_text_column wpb_content_element " >
+		<div class="wpb_wrapper">
+			<p>Quuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quia non numquam eius modi tempora incidunt ut labore et dolore magnam dolor sit amet.</p>
+
+		</div>
+	</div>
+[contact-form-7]		</div>
+	</div>
+</div>
+</div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Kristina Joy</title>
+		<link>https://emphires-demo.creativesplanet.com/demo1/team-member/kristina-joy/</link>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Wed, 27 Mar 2019 11:21:28 +0000</pubDate>
+				<guid isPermaLink="false">http://preview.creativesplanet.com/enginir/?post_type=cspt-team-member&#038;p=8992</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[<div class="vc_row wpb_row vc_row-fluid cspt-row cspt-bg-color-yes cspt-bg-color-transparent cspt-zindex-zero">
+			<div class="wpb_column vc_column_container vc_col-sm-12 cspt-column cspt-bg-color-yes cspt-bg-color-transparent cspt-zindex-zero">
+	<div class="vc_column-inner ">
+			<div class="wpb_wrapper">
+			<h4 style="text-align: left" class="vc_custom_heading" >Qualification</h4>
+	<div class="wpb_text_column wpb_content_element " >
+		<div class="wpb_wrapper">
+			<p>Quuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quia non numquam eius modi tempora incidunt ut labore et dolore magnam dolor sit amet, consectetur adipisicing.</p>
+
+		</div>
+	</div>
+<div class="vc_row wpb_row vc_inner vc_row-fluid cspt-row-inner cspt-bg-color-yes cspt-bg-color-transparent cspt-zindex-zero">
+	<div class="wpb_column vc_column_container vc_col-sm-4 cspt-column-inner cspt-bg-color-yes cspt-bg-color-transparent cspt-zindex-zero"><div class="vc_column-inner "><div class="wpb_wrapper"><div  class="cspt-ihbox cspt-ihbox-style-11 " >
+	<div class="cspt-ihbox-box">
+		<div class="cspt-ihbox-icon"><div class="cspt-ihbox-icon-wrapper cspt-ihbox-icon-type-image"><img width="90" height="90" src="https://emphires-demo.creativesplanet.com/demo1/wp-content/uploads/sites/7/2020/02/n-icon-04.png" class="attachment-full size-full" alt="" data-id="13119" /></div></div><div class="cspt-ihbox-contents">
+			<div class="cspt-ihbox-heading"><h2 class="vc_custom_heading">Education</h2></div>						<div class="cspt-ihbox-content">Harvar University, Cambridge Business</div>								</div><!-- .cspt-ihbox-contents -->
+	</div>
+</div>
+</div></div></div><div class="wpb_column vc_column_container vc_col-sm-4 cspt-column-inner cspt-bg-color-yes cspt-bg-color-transparent cspt-zindex-zero cspt-responsive-custom-81152116"><div class="vc_column-inner "><div class="wpb_wrapper"><div  class="cspt-ihbox cspt-ihbox-style-11 " >
+	<div class="cspt-ihbox-box">
+		<div class="cspt-ihbox-icon"><div class="cspt-ihbox-icon-wrapper cspt-ihbox-icon-type-image"><img width="90" height="90" src="https://emphires-demo.creativesplanet.com/demo1/wp-content/uploads/sites/7/2020/02/n-icon-01.png" class="attachment-full size-full" alt="" data-id="13120" /></div></div><div class="cspt-ihbox-contents">
+			<div class="cspt-ihbox-heading"><h2 class="vc_custom_heading">Career</h2></div>						<div class="cspt-ihbox-content">H R Management LTD, New York as a adviser</div>								</div><!-- .cspt-ihbox-contents -->
+	</div>
+</div>
+</div></div></div><div class="wpb_column vc_column_container vc_col-sm-4 cspt-column-inner cspt-bg-color-yes cspt-bg-color-transparent cspt-zindex-zero"><div class="vc_column-inner "><div class="wpb_wrapper"><div  class="cspt-ihbox cspt-ihbox-style-11 " >
+	<div class="cspt-ihbox-box">
+		<div class="cspt-ihbox-icon"><div class="cspt-ihbox-icon-wrapper cspt-ihbox-icon-type-image"><img width="90" height="90" src="https://emphires-demo.creativesplanet.com/demo1/wp-content/uploads/sites/7/2020/02/n-icon-02.png" class="attachment-full size-full" alt="" data-id="13121" /></div></div><div class="cspt-ihbox-contents">
+			<div class="cspt-ihbox-heading"><h2 class="vc_custom_heading">Experience</h2></div>						<div class="cspt-ihbox-content">15 years of experience &amp; Professional adviser</div>								</div><!-- .cspt-ihbox-contents -->
+	</div>
+</div>
+</div></div></div></div>
+		</div>
+	</div>
+</div>
+</div>
+<div class="vc_row wpb_row vc_row-fluid vc_custom_1580460560594 cspt-row cspt-bg-color-yes cspt-bg-color-transparent cspt-zindex-zero">
+			<div class="wpb_column vc_column_container vc_col-sm-12 cspt-column cspt-bg-color-yes cspt-bg-color-transparent cspt-zindex-zero">
+	<div class="vc_column-inner ">
+			<div class="wpb_wrapper">
+			<h4 style="text-align: left" class="vc_custom_heading" >Contact Me</h4>
+	<div class="wpb_text_column wpb_content_element " >
+		<div class="wpb_wrapper">
+			<p>Quuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quia non numquam eius modi tempora incidunt ut labore et dolore magnam dolor sit amet.</p>
+
+		</div>
+	</div>
+[contact-form-7]		</div>
+	</div>
+</div>
+</div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>
